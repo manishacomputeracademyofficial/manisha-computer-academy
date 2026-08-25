@@ -1,0 +1,10 @@
+{
+    "versionCode": 86,
+    "versionName": "1.0.0",
+    "buildNumber": 86,
+    "releaseDate": "2026-08-25",
+    "releaseNotes": "Added 60 Tally Prime Shortcuts, GST & TDS Statutory Notes (Sec 194C/194J), Visual Basic RAD Programming, and Oracle Database & SQL Masterclass.",
+    "downloadUrl": "https://manishacomputeracademy.vercel.app/Releases/mca-latest.apk",
+    "minRequiredVersionCode": 80,
+    "forceUpdate": false
+}
