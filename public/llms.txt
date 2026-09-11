@@ -1,0 +1,71 @@
+# Manisha Computer Academy (MCA)
+
+> Premier Computer Education & IT Skills Institute offering government-recognized diplomas, hands-on programming courses, digital accounting, and AI-powered learning solutions.
+
+## Site Structure & Page Tree
+Below is the complete hierarchical site tree and page route navigation structure for web crawlers, AI agents, and search engines:
+
+```text
+https://manishacomputeracademy.com/
+├── / (Home / Public Portal & Academy Showcase)
+│   ├── #courses (Courses & Diplomas: DCA, PGDCA, ADCA, Tally Prime)
+│   ├── #about (Academy Background & Infrastructure)
+│   ├── #features (AI Exam Engine & Computer Labs)
+│   ├── #downloads (App Releases, Student Downloads & Software)
+│   └── #contact (Enrollment Enquiries & Location Map)
+│
+├── /student (Student Learning Portal)
+│   ├── /student/dashboard (Student Overview & Progress)
+│   ├── /student/exams (Online CBT Exams & Mock Tests)
+│   ├── /student/attendance (Attendance Logs & Batch Schedule)
+│   └── /student/certificates (Download Certification & Transcripts)
+│
+├── /admin (Academy Management Console)
+│   ├── /admin/dashboard (Institute Analytics, Revenue & Stats)
+│   ├── /admin/students (Student Directory, Registrations & Profiles)
+│   ├── /admin/batches (Batch Scheduling & Trainer Assignment)
+│   ├── /admin/attendance (Student & Staff Attendance Tracking)
+│   ├── /admin/exams (AI Exam Generator, Question Bank & Marking)
+│   └── /admin/messages (Broadcast System, SMS & Parent Alerts)
+│
+├── /sitemap.xml (XML Sitemap for Search Engine Crawlers)
+├── /robots.txt (Web Crawler & AI Bot Access Policy)
+├── /llms.txt (AI & LLM Structured Summary & Site Tree)
+└── /llms-full.txt (Comprehensive Course Syllabi & Technical Documentation)
+```
+
+## Page Descriptions & Agent Navigation Directives
+
+### 1. Public Portal (`/`)
+- **Purpose**: Main showcase page for prospective students, parents, and recruiters.
+- **Key Sections**:
+  - `Courses`: Detailed breakdowns of DCA (6 mo), PGDCA (1 yr), ADCA (1 yr), and Tally Prime with GST (3 mo).
+  - `AI Exam Portal`: Details regarding computer-based online examination capabilities.
+  - `Downloads`: Direct links to MCA Desktop/Mobile APK apps and course material.
+
+### 2. Student Portal (`/student`)
+- **Purpose**: Interactive portal for enrolled students to take tests, review attendance, and view scores.
+- **Sub-pages**:
+  - `Student Dashboard`: Performance analytics, assigned batches, and upcoming exam dates.
+  - `Exams`: Live test interface with AI proctoring and real-time evaluation.
+  - `Attendance`: Daily attendance logs and batch schedule calendar.
+
+### 3. Admin Portal (`/admin`)
+- **Purpose**: Secure administrative console for institute directors, staff, and instructors.
+- **Sub-pages**:
+  - `Dashboard`: Student headcount, active batches, exam statistics, and system health.
+  - `Students`: Searchable directory of registered students with profile management.
+  - `Batches`: Timetable, batch capacity, and instructor assignments.
+  - `Exams`: Question bank manager, automated exam builder, and result processor.
+  - `Messages`: Communication hub for announcements and alerts.
+
+## Key Offerings & Programs
+- **DCA (Diploma in Computer Applications)**: Core computer skills, operating systems, MS Office Suite, Internet & Cyber Security basics.
+- **PGDCA (Post Graduate Diploma in Computer Applications)**: Advanced computing, database management (DBMS), system analysis, and application software.
+- **ADCA (Advanced Diploma in Computer Applications)**: Master diploma covering web design, programming logic, office tools, and accounting.
+- **Tally Prime & Financial Accounting**: Tally Prime with GST configuration, inventory management, e-way bills, and payroll processing.
+- **Programming & Software Development**: Fundamentals of Python programming, C/C++, JavaScript, HTML/CSS Web Development, and SQLite/Supabase backend integration.
+- **AI-Powered Learning & Exams**: Real-time Computer Based Testing (CBT), AI-proctored online assessments, instant scoring, and personalized feedback.
+
+## Full Context Document
+- [llms-full.txt](https://manishacomputeracademy.com/llms-full.txt): Complete detailed curriculum, course syllabus, site tree, and technical architecture specifications for AI agents.

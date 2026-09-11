@@ -1,0 +1,52 @@
+# Manisha Computer Academy (MCA) — Comprehensive Specification & Syllabus Index
+
+## Organization Profile
+- **Full Name**: Manisha Computer Academy (MCA)
+- **Short Name**: MCA Learning / MCA Institute
+- **Domain**: Computer Education, Vocational IT Skill Development & Online Certification
+- **Primary Website**: https://manishacomputeracademy.com/
+- **Geographic Coverage**: India (National & Regional Skill Development Focus)
+- **Service Categories**: Vocational IT Education, Certificate Courses, Computer Lab Access, AI-Proctored Examination System.
+
+---
+
+## Detailed Course Specifications & Syllabus
+
+### 1. DCA — Diploma in Computer Applications (Duration: 6 Months)
+- **Module 1**: Fundamentals of Computer Hardware, Software, & Operating Systems (Windows/Linux).
+- **Module 2**: Microsoft Office Suite — MS Word (Document Design), MS Excel (Formulas, Pivot Tables, Data Analysis), MS PowerPoint (Presentations), MS Access (Databases).
+- **Module 3**: Internet Technologies, Web Browsing, Email Etiquette, Cyber Security Fundamentals, Digital Payments & E-Governance Services.
+- **Module 4**: Practical Lab Sessions & Speed Typing (English & Regional Keyboards).
+
+### 2. PGDCA — Post Graduate Diploma in Computer Applications (Duration: 1 Year)
+- **Module 1**: Computer Organization & Systems Architecture.
+- **Module 2**: Database Management Systems (DBMS & SQL Queries).
+- **Module 3**: Object-Oriented Programming (C++ / Python / Java Basics).
+- **Module 4**: Web Technology (HTML5, CSS3, JavaScript Basics).
+- **Module 5**: System Analysis, Software Engineering Principles, and Capstone Project.
+
+### 3. Tally Prime with GST Certification (Duration: 3 Months)
+- **Module 1**: Principles of Accounting, Double-Entry System, Ledger Creation, & Journal Entries.
+- **Module 2**: Tally Prime Navigation, Company Setup, Voucher Entry, Invoicing.
+- **Module 3**: Goods and Services Tax (GST) — CGST, SGST, IGST Calculation, Tax Invoice Generation, GST Return Filing Concepts (GSTR-1, GSTR-3B).
+- **Module 4**: Inventory Management, Stock Groups, Reorder Levels, Payroll Management, and Financial Reporting (Balance Sheet, Profit & Loss).
+
+### 4. ADCA — Advanced Diploma in Computer Applications (Duration: 12 Months)
+- Comprehensive blend of DCA + Tally Prime + Web Design (HTML/CSS/JS) + Graphic Basics (Photoshop/CorelDraw concepts) + Python Programming.
+
+---
+
+## AI Examination & Student Technology Infrastructure
+
+Manisha Computer Academy utilizes an advanced digital platform powered by modern technology:
+- **Client Application**: Cross-platform Flutter & Kotlin mobile app + Desktop Proctoring app + Web Portal for real-time exam administration.
+- **Backend Architecture**: Supabase PostgreSQL database for high-concurrency real-time attendance, online exams, student profiles, and credit pool tracking.
+- **AI Assessment Engine**: Automated question generation, proctored computer-based testing (CBT), automated grading, and instant transcript generation.
+
+---
+
+## Contact & Geographic Information
+- **Institution Name**: Manisha Computer Academy (MCA)
+- **Services**: In-person computer training, lab practice, online testing, certification.
+- **Region**: India
+- **Website**: https://manishacomputeracademy.com/
